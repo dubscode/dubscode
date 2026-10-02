@@ -16,13 +16,17 @@ Most of my career has been software for hotel revenue managers. In 2012 I built 
 - **Revcaster** (2012 to 2018). Founder and CEO. Excel prototype, then a Rails SaaS platform, then the #1 rated tool in its category, then an acquisition. Remote-first team across North America, Ukraine, and Africa.
 - **Wise Revenue Management** (2013 to 2022). Consulting on the side: custom SaaS and serverless tools for 50+ hotel clients.
 
-## Side Projects & Hackathons
+## Open Source
+
+Most of what I build in the open is tooling for working with coding agents.
 
 - [DubStack](https://github.com/wiseiodev/dubstack): a local-first CLI for stacked branches and small, reviewable PRs. `brew install wiseiodev/dubstack/dubstack`
-- [AI Manager](https://github.com/dubscode/ai-manager) @ ElevenLabs x a16z Hackathon 2025: an AI engineering manager that runs daily standups by voice
-- [PhotoMuse](https://github.com/dubscode/photorag) @ Microsoft RAG Hack 2024: natural-language image search with Azure Vision, GPT-4, and pgvector
-- [8-bit Alien Escape](https://github.com/dubscode/8lien) @ Learn With Jason Spooky Hackathon: a multiplayer space-station maze game with face huggers
-- [School Calendar](https://github.com/marywoodwardpso/school-calendar): a calendar our elementary school's parents can actually read, from my volunteer webmaster gig
+- [Dubsbot](https://github.com/wiseiodev/dubsbot): a model-agnostic local coding agent CLI, inspired by Claude Code and built on the Vercel AI SDK
+- [Guardrails](https://github.com/wiseiodev/guardrails): Biome, Lefthook, Commitlint, CI, and AGENTS.md rules that keep agents inside the lines in a pnpm repo. `pnpm add -D @wiseiodev/guardrails`
+- [Skills](https://github.com/wiseiodev/skills): agent skills I use every day, like a two-reviewer adversarial code review. `npx skills add wiseiodev/skills/<skill>`
+- [Agentic Engineering Playbook](https://github.com/wiseiodev/agentic-playbook): how I keep several coding agents running in parallel without letting them overengineer
+- [Shiplog](https://github.com/wiseiodev/shiplog-app): a searchable index of past agent runs and lessons, with an MCP server so agents check what happened before they start
+- [Rage AI](https://github.com/wiseiodev/rageai): a frustration leaderboard for Claude Code and Codex. It counts the swearing in your local transcripts.
 
 ## Writing
 
@@ -37,4 +41,8 @@ Most of my career has been software for hotel revenue managers. In 2012 I built 
 
 ## Off the Clock
 
-My most important job is being a dad. My son Alex is why I advocate for autism research. Our family joined the SPARK for Autism study, which finally gave us answers about his condition ([KATU News](https://katu.com/news/local/historical-autism-study-enters-fourth-year-giving-families-answers-hope)). When I have free time, I'm at a hackathon, painting, tinkering with a 3D printer, or watching sci-fi with Alex and our French Bulldog.
+My most important job is being a dad. My son Alex is why I advocate for autism research. Our family joined the SPARK for Autism study, which finally gave us answers about his condition ([KATU News](https://katu.com/news/local/historical-autism-study-enters-fourth-year-giving-families-answers-hope)). I'm also the volunteer webmaster for our elementary school's PSO, where I built a [school calendar](https://github.com/marywoodwardpso/school-calendar) parents can actually read. When I have free time, I'm at a hackathon, painting, tinkering with a 3D printer, or watching sci-fi with Alex and our French Bulldog.
+
+---
+
+🇺🇦 [Support Ukraine through UNITED24](https://u24.gov.ua/)
