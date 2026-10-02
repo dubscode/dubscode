@@ -21,7 +21,6 @@ Most of my career has been software for hotel revenue managers. In 2012 I built 
 Most of what I build in the open is tooling for working with coding agents.
 
 - [DubStack](https://github.com/wiseiodev/dubstack): a local-first CLI for stacked branches and small, reviewable PRs. `brew install wiseiodev/dubstack/dubstack`
-- [Dubsbot](https://github.com/wiseiodev/dubsbot): a model-agnostic local coding agent CLI, inspired by Claude Code and built on the Vercel AI SDK
 - [Guardrails](https://github.com/wiseiodev/guardrails): Biome, Lefthook, Commitlint, CI, and AGENTS.md rules that keep agents inside the lines in a pnpm repo. `pnpm add -D @wiseiodev/guardrails`
 - [Skills](https://github.com/wiseiodev/skills): agent skills I use every day, like a two-reviewer adversarial code review. `npx skills add wiseiodev/skills/<skill>`
 - [Agentic Engineering Playbook](https://github.com/wiseiodev/agentic-playbook): how I keep several coding agents running in parallel without letting them overengineer
